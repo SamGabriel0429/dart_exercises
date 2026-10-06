@@ -1,0 +1,6 @@
+Customer: Sam
+Quantity: 3
+Unit price: ₱50.0
+Member: true
+Total price: ₱150.0
+Eligible for discount: true
