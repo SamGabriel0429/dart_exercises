@@ -1,0 +1,12 @@
+name: customer_receipt
+description: A simple Dart console application to calculate customer totals.
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+# No dependencies are required for this program.
+dependencies:
+
+dev_dependencies:
+  lints: ^3.0.0
